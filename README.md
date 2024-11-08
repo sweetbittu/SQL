@@ -4,6 +4,7 @@ HR Management System:
 This project is an HR Management System designed to streamline HR processes, enabling efficient tracking of employee histories, departments, locations, and other relevant details. The system provides HR personnel with a centralized platform to access and manage employee information securely.
 
 Project Objectives:
+
 Employee History Tracking:Track and view each employee's history since joining, including positions held, promotions, transfers, and performance evaluations.
 
 Department Management:Allow HR to view and manage employee details by department, providing a structured overview of departmental staffing.
